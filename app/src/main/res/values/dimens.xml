@@ -1,0 +1,140 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 显示图片ImageView的宽高 -->
+    <dimen name="activity_image_width">150dp</dimen>
+    <dimen name="activity_image_height">150dp</dimen>
+
+
+    <dimen name="star_dialog_btn_min_height">40dp</dimen>
+    <dimen name="h9">9dp</dimen>
+    <dimen name="h10">10dp</dimen>
+    <dimen name="h11">11dp</dimen>
+    <dimen name="h12">12dp</dimen>
+    <dimen name="h13">13dp</dimen>
+    <dimen name="h14">14dp</dimen>
+    <dimen name="h15">15dp</dimen>
+    <dimen name="h16">16dp</dimen>
+    <dimen name="h17">17dp</dimen>
+    <dimen name="h18">18dp</dimen>
+    <dimen name="h19">19dp</dimen>
+    <dimen name="h20">20dp</dimen>
+    <dimen name="h24">24dp</dimen>
+    <dimen name="h27">27dp</dimen>
+    <dimen name="h36">36dp</dimen>
+    <dimen name="h40">40dp</dimen>
+    <dimen name="live_broadcast_btn_size">35dp</dimen>
+    <dimen name="live_horizental_btn_size">26dp</dimen>
+    <dimen name="live_seek_bar_length">290dp</dimen>
+    <dimen name="mine_item_left">10dp</dimen>
+    <!-- 左右按键的宽高 -->
+    <dimen name="titlebar_btn_wh">26dp</dimen>
+    <dimen name="titlebar_textsize">20dp</dimen>
+    <dimen name="titlebar_height">50dp</dimen>
+    <dimen name="live_vertical_word_screen_margarn">60dp</dimen>
+    <dimen name="layout_scroll_view_edge">0dp</dimen>
+    <!-- padding -->
+    <dimen name="padding_h0">0dp</dimen>
+    <dimen name="padding_h1">1dp</dimen>
+    <dimen name="padding_h2">2dp</dimen>
+    <dimen name="padding_h4">4dp</dimen>
+    <dimen name="padding_h5">4dp</dimen>
+    <dimen name="padding_h7">7dp</dimen>
+    <dimen name="padding_h8">8dp</dimen>
+    <dimen name="padding_h12">12dp</dimen>
+    <dimen name="padding_h10">10dp</dimen>
+    <dimen name="padding_h14point9">14.9dp</dimen>
+    <dimen name="padding_h15">15dp</dimen>
+    <dimen name="padding_h17">17dp</dimen>
+    <dimen name="padding_h27">27dp</dimen>
+    <dimen name="padding_h21pont5">21.5dp</dimen>
+    <dimen name="padding_h10point5">10.5dp</dimen>
+    <dimen name="padding_h9point5">9.5dp</dimen>
+    <dimen name="padding_h14">14dp</dimen>
+    <dimen name="padding_h15point5">15.5dp</dimen>
+    <dimen name="padding_h18">18dp</dimen>
+    <dimen name="padding_h16">18dp</dimen>
+
+    <dimen name="padding_h20">20dp</dimen>
+    <dimen name="padding_h23">23dp</dimen>
+    <dimen name="padding_h30">30dp</dimen>
+    <!-- margin -->
+    <dimen name="margin_h2p8">2.8dp</dimen>
+    <dimen name="margin_h3">3dp</dimen>
+    <dimen name="margin_h3point5">3.5dp</dimen>
+    <dimen name="margin_h4">4dp</dimen>
+    <dimen name="margin_h4point5">4.5dp</dimen>
+    <dimen name="margin_h5">5dp</dimen>
+    <dimen name="margin_h6">6dp</dimen>
+    <dimen name="margin_h6point5">6.5dp</dimen>
+    <dimen name="margin_h7">7dp</dimen>
+    <dimen name="margin_h7point5">7.5dp</dimen>
+    <dimen name="margin_h9point5">9.5dp</dimen>
+    <dimen name="margin_h10">10dp</dimen>
+    <dimen name="margin_h12">12dp</dimen>
+    <dimen name="margin_h16point5">16.5dp</dimen>
+    <dimen name="margin_h22">22dp</dimen>
+    <dimen name="margin_h20">20dp</dimen>
+    <dimen name="margin_h17">17dp</dimen>
+    <dimen name="margin_h18">18dp</dimen>
+    <dimen name="margin_hpoint5">0.5dp</dimen>
+    <dimen name="margin_h11point5">11.5dp</dimen>
+    <dimen name="margin_h12point5">12.5dp</dimen>
+    <dimen name="margin_h13">13dp</dimen>
+    <dimen name="margin_h13point8">13.8dp</dimen>
+    <dimen name="margin_h14">14dp</dimen>
+    <dimen name="margin_h15">15dp</dimen>
+    <dimen name="margin_h27">27dp</dimen>
+    <dimen name="margin_h49point5">49.5dp</dimen>
+    <dimen name="margin_h39point5">39.5dp</dimen>
+    <dimen name="margin_h15point5">15.5dp</dimen>
+    <dimen name="margin_optionmenu">15dp</dimen>
+    <dimen name="margin_h36">36dp</dimen>
+    <dimen name="margin_h40">40dp</dimen>
+    <dimen name="margin_h50">50dp</dimen>
+    <dimen name="size_optionmenu">54dp</dimen>
+    <!-- 大小 -->
+    <dimen name="size_h2">2dp</dimen>
+    <dimen name="size_h46">46dp</dimen>
+    <dimen name="size_h20">20dp</dimen>
+    <dimen name="size_h27">27dp</dimen>
+    <dimen name="size_h30">30dp</dimen>
+    <dimen name="size_h60">60dp</dimen>
+    <dimen name="size_14point9">14.9dp</dimen>
+    <dimen name="size_edittext">50dp</dimen>
+    <dimen name="size_point5">0.5dp</dimen>
+    <dimen name="size_h24">24dp</dimen>
+    <dimen name="size_h22point2">22.2dp</dimen>
+    <dimen name="size_h22">22dp</dimen>
+    <dimen name="size_h14">14dp</dimen>
+    <dimen name="size_h18">18dp</dimen>
+    <dimen name="size_h26">26dp</dimen>
+    <dimen name="size_h13">13dp</dimen>
+    <dimen name="size_h15">15dp</dimen>
+    <dimen name="size_h16">16dp</dimen>
+    <dimen name="size_h17">17dp</dimen>
+    <dimen name="size_h13point7">13.7dp</dimen>
+    <dimen name="size_h33">33dp</dimen>
+    <dimen name="size_h42">42dp</dimen>
+    <dimen name="size_h75">75dp</dimen>
+    <dimen name="size_h87p5">87.5dp</dimen>
+    <dimen name="size_h27p5">27.5dp</dimen>
+    <dimen name="size_h100">100dp</dimen>
+    <dimen name="size_h137">137dp</dimen>
+    <dimen name="size_h141">141dp</dimen>
+    <dimen name="size_h252">252dp</dimen>
+    <dimen name="publish_topic_item_height">45dp</dimen>
+    <dimen name="size_height_hotdrama_framgenthome">190dp</dimen>
+    <dimen name="size_tab_starhome">45dp</dimen>
+
+    <dimen name="size_classification_popupwindow_w">145dp</dimen>
+    <dimen name="size_classification_popupwindow_h">90dp</dimen>
+    <!-- 间距 -->
+    <dimen name="spacing_h21point5">21.5dp</dimen>
+    <dimen name="spacing_h10">10dp</dimen>
+    <!-- corner -->
+    <dimen name="corner_h5">5dp</dimen>
+    <dimen name="corner_h4">4dp</dimen>
+    <dimen name="corner_h2">2dp</dimen>
+</resources>

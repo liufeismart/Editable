@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_all"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <com.liufeismart.editable.EditTextLayout
+        android:id="@+id/layout_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="15dp" >
+
+        <RelativeLayout
+            android:id="@+id/layout_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rectangle_dotted_line" >
+
+            <!--  -->
+
+            <EditText
+                android:id="@+id/et_content"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="@android:color/transparent"
+                android:maxLength="100"
+                android:maxLines="5"
+                android:padding="5dp"
+                android:shadowColor="@color/tanslate_bg_black"
+                android:shadowDy="2"
+                android:shadowRadius="3.0"
+                android:textColor="@color/text_white"
+                android:textSize="@dimen/h14"
+                android:textStyle="bold"
+                android:gravity="left"/>
+        </RelativeLayout>
+    </com.liufeismart.editable.EditTextLayout>
+
+    <com.liufeismart.editable.EditableImageButton
+        android:id="@+id/ibn_delete"
+        android:layout_width="@dimen/size_h30"
+        android:layout_height="@dimen/size_h30"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@null"
+        android:padding="5dp"
+        android:scaleType="fitCenter"
+        android:src="@mipmap/icon_delete" />
+
+    <com.liufeismart.editable.EditableImageButton
+        android:id="@+id/ibn_drag"
+        android:layout_width="@dimen/size_h30"
+        android:layout_height="@dimen/size_h30"
+        android:layout_alignBottom="@+id/layout_content"
+        android:layout_alignRight="@+id/layout_content"
+        android:background="@null"
+        android:padding="5dp"
+        android:scaleType="fitCenter"
+        android:src="@mipmap/icon_drag" />
+
+</RelativeLayout> <!-- layout_content et_content ibn_delete  ibn_drag layout_line -->
